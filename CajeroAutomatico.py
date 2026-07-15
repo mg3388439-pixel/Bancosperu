@@ -7,7 +7,7 @@ saldo = 6900
 pin_correcto = "3456"
 
 print("===================================")
-print("      CAJERO DEL BANCO BBVA")
+print("      CAJERO DEL BANCO BBVAA")
 print("===================================")
 
 pin = input("Pr favor Ingrese su PIN: ")
