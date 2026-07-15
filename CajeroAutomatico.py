@@ -1,16 +1,16 @@
 # ===========================================
 # PROGRAMA: CAJERO AUTOMÁTICO
-# Autor: GREZZIA ELGUERA
+# Autor: GREZZIA ELGUERA 3sec.
 # ===========================================
 
-saldo = 5000
-pin_correcto = "5678"
+saldo = 20000
+pin_correcto = "9012"
 
 print("===================================")
-print("     BIENVENIDO AL CAJERO DEL BCP")
+print("      CAJERO BANCO INTERBANKK")
 print("===================================")
 
-pin = input("Ingrese su PIN: ")
+pin = input("IngresAR PIN: ")
 
 if pin == pin_correcto:
 
